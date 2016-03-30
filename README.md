@@ -1,0 +1,2 @@
+# slide-manager
+Managing slides
